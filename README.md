@@ -37,7 +37,7 @@ Follow these steps to get started with development or testing on your device:
 
 1. **Clone this repo**
    ```bash
-   git clone https://github.com/your-username/my-task.git
+   git clone https://github.com/CoderAyushman/my-task.git
    cd my-task
 ---
 ## 🛠️ Installation & Running
