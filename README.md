@@ -115,8 +115,11 @@ expo start
 
 - 🔐 **Expo SDK 53 Notification Limitation:** One of the major challenges was implementing local push notifications using Expo's `expo-notifications` module. With SDK 53, notifications are not supported in the default Expo Go app. To overcome this, I created a development build using `expo-dev-client`, which allowed me to test the notification functionality on a real device.
 ---
+## Here is a sample of the app interface:
+---
 
-
-
+![My Task UI](https://raw.githubusercontent.com/CoderAyushman/my-task/main/assets/images/my-task-ui.jpg)
+---
 Thank you!  
 **— Ayushman Mishra**
+---
