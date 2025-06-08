@@ -6,7 +6,7 @@
 
 > 📲 So I built the APK file using `eas build --profile preview --platform android` to help you properly test the app, including notification features.
 
-> 📥 **Install the fully functional My Task App directly from the official Expo preview link**-**<a href="YOUR_APK_LINK_HERE" target="_blank" rel="noopener noreferrer">Download APK for My Task App</a>**
+> 📥 **Install the fully functional My Task App directly from the official Expo preview link**-**<a href="https://expo.dev/accounts/ayushmanmishra/projects/task-mate/builds/d7a518a2-ef07-4488-a1c7-cd422c7ac655" target="_blank" rel="noopener noreferrer">Download APK for My Task App</a>**
 
 
 
